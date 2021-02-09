@@ -25,4 +25,4 @@ Go, Kubernetes, Spark, GraphQL
 ## Current Work
 
 ### Master's Project at SJSU
-I am working under Dr. Mark Stamp at SJSU on the topic: Fake Malware Generation using HMMs and GANs.
+I am working under Dr. Mark Stamp at SJSU on the topic: Hidden Markov Model Distance for Malware Classification
