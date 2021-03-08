@@ -17,7 +17,7 @@ Python, Java
 Flask, AWS, RESTful APIs
 
 ### Currently Exploring
-MERN Stack, GCP, Docker, Android, Flutter
+Android, Flutter, MERN Stack, Docker
 
 ### Planned for Future
 Go, Kubernetes, Spark, GraphQL
