@@ -20,7 +20,7 @@ Flask, AWS, RESTful APIs
 Android, Flutter, Java Servlets, Spring Boot
 
 ### Currently Exploring
-Spring Boot Reactive, Cassandra, Docker, Django, Kubernetes, Elasticsearch, Redis, React
+PostgreSQL, Cassandra, Docker, Django, Kubernetes, Elasticsearch, Redis, React
 
 ### Planned for Future
 Go, Spark, GraphQL
