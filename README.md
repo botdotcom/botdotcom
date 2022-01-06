@@ -20,10 +20,10 @@ Flask, AWS, RESTful APIs
 Android, Flutter, Java Servlets, Spring Boot
 
 ### Currently Exploring
-PostgreSQL, Cassandra, Docker, Django, Kubernetes, Elasticsearch, Redis, React
+PostgreSQL, Kafka, Docker, Django, Kubernetes, Elasticsearch, Redis, React
 
 ### Planned for Future
-Go, Spark, GraphQL
+Go, Cassandra, Spark, GraphQL
 
 ### Master's Project at SJSU
 I worked under Dr. Mark Stamp at SJSU on the topic: Hidden Markov Model Distance for Malware Classification
