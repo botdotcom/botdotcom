@@ -20,7 +20,7 @@ Flask, AWS, RESTful APIs
 Android, Flutter, Java Servlets, Spring Boot
 
 ### Currently Exploring
-PostgreSQL, Kafka, Docker, Django, Kubernetes, Elasticsearch, Redis, React
+MERN stack, Sails.js, PostgreSQL, Kafka, Docker, Django, Kubernetes, Elasticsearch, Redis
 
 ### Planned for Future
 Go, Cassandra, Spark, GraphQL
